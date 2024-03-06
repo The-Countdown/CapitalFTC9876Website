@@ -1,0 +1,31 @@
+html * {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+body {
+  background-image: url('background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: cover;
+  height: cover;
+  
+}
+
+.header * {
+  padding: 8px;
+  text-align: center;
+  background: #bea925;
+  color: DarkRed;
+}
+
+.header h1 {
+  font-size: 30px;
+}
+
+h1 {
+  text-align: center;
+  background-color:#bea925; 
+  color:DarkRed;
+}
